@@ -7,17 +7,12 @@
 
 
 setup(
-    name="example_", 
+    name="Football_Pitch", 
     version="0.0.1",
     author="Ailihamu Abudouresuli",
     author_email="elham.abdurusol@gmail.com"
-    description="A small example package",
-    packages=['example_']
+    description="Drawing a Football Pitch",
+    packages=['Football_Pitch']
     url="https://github.com/pypa/sampleproject",
-    classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
-    ],
-    python_requires='>=3.0',
+    zip_safe=False,
 )
