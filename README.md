@@ -17,8 +17,6 @@ I have created a python package called “Football_Pitch” which I uploaded to 
 
 ## File Descriptions <a name="files"></a>
 
-Threr are five notebooks available here:
-
 Football_Pitch.py is the main python file which contains the "draw_pitch" function to draw a football pitch.
 I used both markdown cells and # in the code to help walk through the processes of individual steps.
 
