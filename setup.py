@@ -10,9 +10,9 @@ setup(
     name="Football_Pitch", 
     version="0.0.1",
     author="Ailihamu Abudouresuli",
-    author_email="elham.abdurusol@gmail.com"
+    author_email="elham.abdurusol@gmail.com",
     description="Drawing a Football Pitch",
-    packages=['Football_Pitch']
+    packages=['Football_Pitch'],
     url="https://github.com/pypa/sampleproject",
     zip_safe=False,
 )
