@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(
     name="Football_Pitch", 
-    version="0.0.1",
+    version="0.0.2",
     author="Ailihamu Abudouresuli",
     author_email="elham.abdurusol@gmail.com",
     description="Drawing a Football Pitch",

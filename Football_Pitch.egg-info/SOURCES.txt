@@ -1,3 +1,4 @@
+README.md
 setup.py
 Football_Pitch/Football_Pitch.py
 Football_Pitch/__init__.py
